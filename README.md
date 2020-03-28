@@ -28,3 +28,7 @@ Download the excel file OWASP-ASVS-Assessment and follow the instructions. Enabl
 * NIST (https://www.nist.gov)
 * SAFECode (https://www.safecode.org)
 * Microsoft (https://www.microsoft.com/en-us/securityengineering/sdl)
+
+## Passwords to unlock the excel file
+* Excel Password - jU90cZy@l0Ug 
+* VBA Password - 3!Cv$jTqvX6x@Zcs
